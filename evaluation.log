@@ -1,0 +1,60 @@
+2026-04-29 06:21:06,177 - INFO - Evaluating: 🎉 Pop/Happy Dancer | prefs={'favorite_genre': 'pop', 'favorite_mood': 'happy', 'target_energy': 0.8, 'target_danceability': 0.85, 'likes_acoustic': False}
+2026-04-29 06:21:06,177 - INFO - Top: Levitating by Dua Lipa (5.87)
+2026-04-29 06:21:06,177 - INFO - Confidence: 0.18 | Issues: ['Low genre diversity – all same genre']
+2026-04-29 06:21:06,177 - INFO - Evaluating: 🤘 High-Energy Rocker | prefs={'favorite_genre': 'rock', 'favorite_mood': 'intense', 'target_energy': 0.95, 'target_danceability': 0.55, 'likes_acoustic': False}
+2026-04-29 06:21:06,177 - INFO - Top: Enter Sandman by Metallica (5.94)
+2026-04-29 06:21:06,177 - INFO - Confidence: 0.37 | Issues: []
+2026-04-29 06:21:06,177 - INFO - Evaluating: 🍃 Chill Lofi Lover | prefs={'favorite_genre': 'lofi', 'favorite_mood': 'chill', 'target_energy': 0.35, 'target_danceability': 0.5, 'likes_acoustic': True}
+2026-04-29 06:21:06,177 - INFO - Top: Library Rain by Paper Lanterns (5.78)
+2026-04-29 06:21:06,177 - INFO - Confidence: 0.50 | Issues: ['Duplicate artist detected']
+2026-04-29 06:21:06,177 - INFO - Evaluating: 🤠 Country Sad Soul | prefs={'favorite_genre': 'country', 'favorite_mood': 'sad', 'target_energy': 0.35, 'target_danceability': 0.55, 'likes_acoustic': True}
+2026-04-29 06:21:06,177 - INFO - Top: Hurt by Johnny Cash (5.85)
+2026-04-29 06:21:06,178 - INFO - Confidence: 0.52 | Issues: []
+2026-04-29 06:21:06,178 - INFO - Evaluating: 🔥 Edge Case (rock + sad) | prefs={'favorite_genre': 'rock', 'favorite_mood': 'sad', 'target_energy': 0.9, 'target_danceability': 0.6, 'likes_acoustic': False}
+2026-04-29 06:21:06,178 - INFO - Top: Chop Suey! by System of a Down (4.91)
+2026-04-29 06:21:06,178 - INFO - Confidence: 0.43 | Issues: []
+2026-04-29 06:31:11,431 - INFO - Evaluating: 🎉 Pop/Happy Dancer | prefs={'favorite_genre': 'pop', 'favorite_mood': 'happy', 'target_energy': 0.8, 'target_danceability': 0.85, 'likes_acoustic': False}
+2026-04-29 06:31:11,431 - INFO - Top: Levitating by Dua Lipa (5.87)
+2026-04-29 06:31:11,431 - INFO - Confidence: 0.18 | Issues: ['Low genre diversity – all same genre']
+2026-04-29 06:31:11,431 - INFO - Evaluating: 🤘 High-Energy Rocker | prefs={'favorite_genre': 'rock', 'favorite_mood': 'intense', 'target_energy': 0.95, 'target_danceability': 0.55, 'likes_acoustic': False}
+2026-04-29 06:31:11,431 - INFO - Top: Enter Sandman by Metallica (5.94)
+2026-04-29 06:31:11,431 - INFO - Confidence: 0.37 | Issues: []
+2026-04-29 06:31:11,431 - INFO - Evaluating: 🍃 Chill Lofi Lover | prefs={'favorite_genre': 'lofi', 'favorite_mood': 'chill', 'target_energy': 0.35, 'target_danceability': 0.5, 'likes_acoustic': True}
+2026-04-29 06:31:11,431 - INFO - Top: Library Rain by Paper Lanterns (5.78)
+2026-04-29 06:31:11,431 - INFO - Confidence: 0.50 | Issues: ['Duplicate artist detected']
+2026-04-29 06:31:11,431 - INFO - Evaluating: 🤠 Country Sad Soul | prefs={'favorite_genre': 'country', 'favorite_mood': 'sad', 'target_energy': 0.35, 'target_danceability': 0.55, 'likes_acoustic': True}
+2026-04-29 06:31:11,431 - INFO - Top: Hurt by Johnny Cash (5.85)
+2026-04-29 06:31:11,431 - INFO - Confidence: 0.52 | Issues: []
+2026-04-29 06:31:11,432 - INFO - Evaluating: 🔥 Edge Case (rock + sad) | prefs={'favorite_genre': 'rock', 'favorite_mood': 'sad', 'target_energy': 0.9, 'target_danceability': 0.6, 'likes_acoustic': False}
+2026-04-29 06:31:11,432 - INFO - Top: Chop Suey! by System of a Down (4.91)
+2026-04-29 06:31:11,432 - INFO - Confidence: 0.43 | Issues: []
+2026-04-29 02:48:25,205 - INFO - Evaluating: \U0001f389 Pop/Happy Dancer | prefs={'favorite_genre': 'pop', 'favorite_mood': 'happy', 'target_energy': 0.8, 'target_danceability': 0.85, 'likes_acoustic': False}
+2026-04-29 02:48:25,206 - INFO - Top: Levitating by Dua Lipa (5.87)
+2026-04-29 02:48:25,206 - INFO - Confidence: 0.18 | Issues: ['Low genre diversity � all same genre']
+2026-04-29 02:48:25,206 - INFO - Evaluating: \U0001f918 High-Energy Rocker | prefs={'favorite_genre': 'rock', 'favorite_mood': 'intense', 'target_energy': 0.95, 'target_danceability': 0.55, 'likes_acoustic': False}
+2026-04-29 02:48:25,206 - INFO - Top: Enter Sandman by Metallica (5.94)
+2026-04-29 02:48:25,206 - INFO - Confidence: 0.37 | Issues: []
+2026-04-29 02:48:25,206 - INFO - Evaluating: \U0001f343 Chill Lofi Lover | prefs={'favorite_genre': 'lofi', 'favorite_mood': 'chill', 'target_energy': 0.35, 'target_danceability': 0.5, 'likes_acoustic': True}
+2026-04-29 02:48:25,206 - INFO - Top: Library Rain by Paper Lanterns (5.78)
+2026-04-29 02:48:25,206 - INFO - Confidence: 0.50 | Issues: ['Duplicate artist detected']
+2026-04-29 02:48:25,206 - INFO - Evaluating: \U0001f920 Country Sad Soul | prefs={'favorite_genre': 'country', 'favorite_mood': 'sad', 'target_energy': 0.35, 'target_danceability': 0.55, 'likes_acoustic': True}
+2026-04-29 02:48:25,206 - INFO - Top: Hurt by Johnny Cash (5.85)
+2026-04-29 02:48:25,206 - INFO - Confidence: 0.52 | Issues: []
+2026-04-29 02:48:25,206 - INFO - Evaluating: \U0001f525 Edge Case (rock + sad) | prefs={'favorite_genre': 'rock', 'favorite_mood': 'sad', 'target_energy': 0.9, 'target_danceability': 0.6, 'likes_acoustic': False}
+2026-04-29 02:48:25,206 - INFO - Top: Chop Suey! by System of a Down (4.91)
+2026-04-29 02:48:25,206 - INFO - Confidence: 0.43 | Issues: []
+2026-04-29 02:49:01,494 - INFO - Evaluating: \U0001f389 Pop/Happy Dancer | prefs={'favorite_genre': 'pop', 'favorite_mood': 'happy', 'target_energy': 0.8, 'target_danceability': 0.85, 'likes_acoustic': False}
+2026-04-29 02:49:01,495 - INFO - Top: Levitating by Dua Lipa (5.87)
+2026-04-29 02:49:01,495 - INFO - Confidence: 0.18 | Issues: ['Low genre diversity � all same genre']
+2026-04-29 02:49:01,495 - INFO - Evaluating: \U0001f918 High-Energy Rocker | prefs={'favorite_genre': 'rock', 'favorite_mood': 'intense', 'target_energy': 0.95, 'target_danceability': 0.55, 'likes_acoustic': False}
+2026-04-29 02:49:01,495 - INFO - Top: Enter Sandman by Metallica (5.94)
+2026-04-29 02:49:01,495 - INFO - Confidence: 0.37 | Issues: []
+2026-04-29 02:49:01,495 - INFO - Evaluating: \U0001f343 Chill Lofi Lover | prefs={'favorite_genre': 'lofi', 'favorite_mood': 'chill', 'target_energy': 0.35, 'target_danceability': 0.5, 'likes_acoustic': True}
+2026-04-29 02:49:01,495 - INFO - Top: Library Rain by Paper Lanterns (5.78)
+2026-04-29 02:49:01,495 - INFO - Confidence: 0.50 | Issues: ['Duplicate artist detected']
+2026-04-29 02:49:01,495 - INFO - Evaluating: \U0001f920 Country Sad Soul | prefs={'favorite_genre': 'country', 'favorite_mood': 'sad', 'target_energy': 0.35, 'target_danceability': 0.55, 'likes_acoustic': True}
+2026-04-29 02:49:01,495 - INFO - Top: Hurt by Johnny Cash (5.85)
+2026-04-29 02:49:01,495 - INFO - Confidence: 0.52 | Issues: []
+2026-04-29 02:49:01,495 - INFO - Evaluating: \U0001f525 Edge Case (rock + sad) | prefs={'favorite_genre': 'rock', 'favorite_mood': 'sad', 'target_energy': 0.9, 'target_danceability': 0.6, 'likes_acoustic': False}
+2026-04-29 02:49:01,495 - INFO - Top: Chop Suey! by System of a Down (4.91)
+2026-04-29 02:49:01,495 - INFO - Confidence: 0.43 | Issues: []

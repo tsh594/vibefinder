@@ -1,0 +1,42 @@
+EVALUATION REPORT — 2026-04-29 02:49:01.497055
+
+Profile: 🎉 Pop/Happy Dancer
+Confidence: 0.18 | Issues: ['Low genre diversity – all same genre']
+  1. Levitating - Dua Lipa (5.87)
+  2. Get Lucky - Daft Punk (5.85)
+  3. Blinding Lights - The Weeknd (5.77)
+  4. Sunrise City - Neon Echo (5.74)
+  5. Gym Hero - Max Pulse (4.79)
+
+Profile: 🤘 High-Energy Rocker
+Confidence: 0.37 | Issues: []
+  1. Enter Sandman - Metallica (5.94)
+  2. Chop Suey! - System of a Down (5.91)
+  3. Storm Runner - Voltline (5.75)
+  4. Bohemian Rhapsody - Queen (4.05)
+  5. Lose Yourself - Eminem (3.72)
+
+Profile: 🍃 Chill Lofi Lover
+Confidence: 0.50 | Issues: ['Duplicate artist detected']
+  1. Library Rain - Paper Lanterns (5.78)
+  2. Midnight Coding - LoRoom (5.52)
+  3. Spacewalk Thoughts - Orbit Bloom (3.76)
+  4. Focus Flow - LoRoom (3.70)
+  5. Hurt - Johnny Cash (2.90)
+
+Profile: 🤠 Country Sad Soul
+Confidence: 0.52 | Issues: []
+  1. Hurt - Johnny Cash (5.85)
+  2. Jolene - Dolly Parton (5.65)
+  3. Old Town Road - Lil Nas X (3.55)
+  4. Coffee Shop Stories - Slow Stereo (2.86)
+  5. Library Rain - Paper Lanterns (2.83)
+
+Profile: 🔥 Edge Case (rock + sad)
+Confidence: 0.43 | Issues: []
+  1. Chop Suey! - System of a Down (4.91)
+  2. Enter Sandman - Metallica (4.84)
+  3. Storm Runner - Voltline (4.83)
+  4. Bohemian Rhapsody - Queen (4.05)
+  5. Lose Yourself - Eminem (2.78)
+
